@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hugo Nilsson</h1>
 <h3 align="center">Student at hkr, Software Developement</h3>
 
-- 📫 How to reach me:  **02hugo.nilsson@gmail.com**
+- 📫 How to reach me:  **hugo.nilsson0002@gmail.com**
 
 
 
