@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hugo Nilsson</h1>
-<h3 align="center">A second year Software Engineering Student at HKR</h3>
+<h3 align="center">I am a second year Software Engineering Student at HKR</h3>
 
 - 📫 How to reach me **hugo.nilsson0002@gmail.com**
 
