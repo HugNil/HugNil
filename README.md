@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://discord.gg/https://discord.com/invite/MRwJyduk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/MRwJyduk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hugo-nilsson-80b33621b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo-nilsson-80b33621b" height="30" width="40" /></a>
 <a href="https://instagram.com/hugo_nilssson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hugo_nilssson" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/MRwJyduk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/MRwJyduk" height="30" width="40" /></a>
 </p>
 
 
