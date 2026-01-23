@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hugo Nilsson</h1>
-<h3 align="center">A second year Software Development Student at HKR</h3>
+<h3 align="center">A third year Software Development Student at HKR</h3>
 
 - 👯 I’m looking to collaborate on **Anything**
 
