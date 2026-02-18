@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Hugo</h1>
-- 👨‍💻 All of my projects are available at [https://www.hugo-nilsson.se/](https://www.hugo-nilsson.se/)
+- 👨‍💻 All of my projects are available at [https://www.hugo-nilsson.se/]
 
 - 📫 How to reach me **hugo.nilsson0002@gmail.com**
 
