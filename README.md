@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Hugo</h1>
 
-- 👨‍💻 All of my projects are available at hugo-nilsson.se/
+- 👨‍💻 All of my projects are available at [hugo-nilsson.se](https://www.hugo-nilsson.se/)
 
 ## 📧 Contact Me:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](linkedin.com/in/hugo-nilsson-80b33621b/)
