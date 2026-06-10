@@ -56,7 +56,7 @@
 
 ## 🦀 Currently Learning
 ![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
 ---
 
 # 📊 GitHub Stats
