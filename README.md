@@ -1,8 +1,8 @@
-<h1 align="center">I'm Hugo!</h1>
-
+[//]: <> (<h1 align="center">I'm Hugo!</h1>) 
+##  About:
 - B.Sc. in Computer Science
-- 👨‍💻 All of my projects are available at [hugo-nilsson.se](https://www.hugo-nilsson.se/)
-- 🌱 Currently learning **Rust**, **Linux**
+- All of my projects are available at [hugo-nilsson.se](https://www.hugo-nilsson.se/)
+- Currently learning **Rust**, **Linux**
 
 ## 📧 Contact Me:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/hugo-nilsson-80b33621b/)
