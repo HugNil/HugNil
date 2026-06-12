@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Hugo!</h1>
+<h1 align="center">I'm Hugo!</h1>
 
+- B.Sc. in Computer Science
 - 👨‍💻 All of my projects are available at [hugo-nilsson.se](https://www.hugo-nilsson.se/)
 - 🌱 Currently learning **Rust**, **Linux**
 
