@@ -1,4 +1,4 @@
-<h1 align="center">I'm Hugo!</h1>
+<h1 align="center">Hi, I'm Hugo!</h1>
 
 ##  About:
 - B.Sc. in Computer Science
