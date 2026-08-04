@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Hugo</h1>
+<h1 align="center">I'm Hugo</h1>
 
 <p align="center">
 B.Sc. in Computer Science • Full Stack Developer
